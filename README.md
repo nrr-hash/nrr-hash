@@ -2,7 +2,7 @@
 
 Content strategist and editor. B2B, B2C, B2G and technical content, as well as the tools that check it.
 
-I write and edit for private and public sector clients across the UK, German and Maltese markets, under the Human in the Loop positioning. The work is editorial quality assurance, fact-checking and brand voice systems, with English language training for German executives in the specialist construction sector and their teams.
+I write and edit for private and public sector clients across the UK, German and Maltese markets, under the Human in the Loop positioning. The work is editorial quality assurance, fact-checking and brand voice systems. I also provide English language training for German executives and their teams in the smart buildings/laboratories/cleanrooms sectors.
 
 ## How the work is checked
 
