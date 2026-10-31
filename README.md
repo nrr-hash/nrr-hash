@@ -20,10 +20,4 @@ Some of that measurement work is public: [search-benchmarks](https://github.com/
 
 Checks performed by a model are model research. Only a named person who has read the source can mark a claim verified.
 
-## Elsewhere
-
-- [search-benchmarks](https://github.com/nrr-hash/search-benchmarks)
-- [nathanielrobertson.net](https://nathanielrobertson.net)
-- [ORCID 0009-0004-6897-9400](https://orcid.org/0009-0004-6897-9400)
-
 Based in Gozo, Malta.
