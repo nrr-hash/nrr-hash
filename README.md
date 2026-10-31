@@ -6,9 +6,7 @@ I write and edit for private and public sector clients across the UK, German and
 
 ## How the work is checked
 
-A house style is only worth having if it can be enforced after the fact. Mine is, by a versioned style pack and a set of Python tools that audit a draft against it: proscribed vocabulary and constructions, sentence-length distribution, and a comparison of successive drafts that reports what changed, including figures introduced and qualifications lost.
-
-Each check emits JSON. The exit code is not the result; the JSON is.
+AA house style is only worth having if it can be enforced after the fact. Mine is enforced by a versioned style pack, applied as a fixed sequence of checks after drafting rather than as guidance during it: proscribed vocabulary and constructions, sentence-length distribution, and a draft-to-draft comparison that reports what changed, including figures introduced and qualifications lost.
 
 Some of that measurement work is public: [search-benchmarks](https://github.com/nrr-hash/search-benchmarks) holds two reproducible rigs, a job-ad audit and a sitemap/feed availability benchmark.
 
