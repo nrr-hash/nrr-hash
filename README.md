@@ -2,7 +2,7 @@
 
 **Content strategist and editor for technical, B2B, and B2G publishing, and the deterministic tools that audit it.**
 
-I write, edit, and audit content for clients across the UK, Germany, and Malta, focusing on factual verification, source tracing, and house style.
+I write, edit, and audit content for clients across the UK, Germany, and Malta, focusing on verification, source tracing, and house style.
 
 ---
 
