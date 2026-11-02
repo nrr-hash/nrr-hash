@@ -2,7 +2,7 @@
 
 **Content strategist and editor for technical, B2B, and B2G publishing, and the deterministic tools that audit it.**
 
-I write, edit, and build quality-assurance systems for private and public sector clients across the UK, German, and Maltese markets: editorial verification, fact-checking infrastructure, and brand voice enforcement. 
+I write, edit, and audit content for clients across the UK, Germany, and Malta, focusing on factual verification, source tracing, and house style.
 
 ---
 
