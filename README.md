@@ -1,21 +1,44 @@
-# Nathaniel
+# Nathaniel Robertson
 
-Content strategist and editor. B2B, B2C, B2G and technical content, as well as the tools that check it.
+**Content strategist and editor for technical, B2B, and B2G publishing, and the deterministic tools that audit it.**
 
-I write and edit for private and public sector clients across the UK, German and Maltese markets, under the Human in the Loop positioning. The work is editorial quality assurance, fact-checking and brand voice systems. I also provide English language training for German executives and their teams in the smart buildings/laboratories/cleanrooms sectors.
+I write, edit, and build quality-assurance systems for private and public sector clients across the UK, German, and Maltese markets: editorial verification, fact-checking infrastructure, and brand voice enforcement. 
 
-## How the work is checked
+---
 
-A house style is only worth having if it can be enforced after the fact. Mine is enforced by a versioned style pack, applied as a fixed sequence of checks after drafting rather than as guidance during it: proscribed vocabulary and constructions, sentence-length distribution, and a draft-to-draft comparison that reports what changed, including figures introduced and qualifications lost.
+### How the work is checked
 
-Some of that measurement work is public: [search-benchmarks](https://github.com/nrr-hash/search-benchmarks) holds two reproducible rigs, a job-ad audit and a sitemap/feed availability benchmark.
+A house style is only worth having if it can be enforced after the fact. Mine is enforced by a versioned style pack, applied as a fixed sequence of checks after drafting rather than as guidance during it:
 
-## Two design decisions worth stating
+* **Lexicon & Syntax:** Proscribed vocabulary, forbidden structural constructions, and sentence-length dispersion.
+* **Diff Auditing:** Draft-to-draft comparisons reporting concrete changes: figures introduced, context shifted, and qualifications dropped.
+* **Human Attribution:** Checks performed by a model are model research. Only a named person who has read the source can mark a claim verified.
 
-**The ban list runs after drafting, never during.** Instructing a writer, human or otherwise, to avoid a list of words distorts the draft around the list. So the draft is made by thought and ear, and the scanners run on what comes out. A scanner hit is a prompt to look at a sentence, not an instruction to change it. A lower hit count is not better writing. You can also throw burstiness and syntactic calculus into this mix - even Phi sentence length variation schemes - when using LLMs. They work but confining formulation to a point or a band (I tried using Lincoln's Second Inauguration Address of .75-.77 CV) leads to copy that may well be less tiring in long form content than the unerring smoothness of the machine but your reader finds the patterns, whether they know it or not. It's wise to disrupt the function of these drafts during the human editing phase. More enjoyable, too.
+---
 
-**Veracity outranks style.** Every substantive factual claim is listed with its intended evidence before drafting, traced to source after drafting, and reread adversarially after every material edit for numbers, dates, units, names and attribution. Anything unverifiable is cut or flagged. Gaps are never smoothed over.
+### Core Methodology
 
-Checks performed by a model are model research. Only a named person who has read the source can mark a claim verified.
+#### 1. The ban list runs after drafting, never during
+Instructing a writer, human or otherwise, to avoid a list of words distorts the draft around the list. The draft is made by thought and ear; the scanners run on what comes out. A scanner hit is a prompt to inspect a sentence, not an order to mutate it. A lower hit count is not inherently better writing.
 
-Based in Gozo, Malta.
+The same discipline applies to syntactic calculus and burstiness targets. Confining generative drafts to a target coefficient of variation (even historical benchmarks like the 0.75-0.77 CV of Lincoln’s Second Inaugural Address) yields long-form copy that is less fatiguing than default model output, but readers still sense the underlying regularity. Disrupting that mechanical rhythm requires deliberate, adversarial human editing.
+
+#### 2. Veracity outranks style
+Every substantive factual claim is listed with its intended evidence before drafting, traced to primary sources after drafting, and reread adversarially after every material edit for numbers, dates, units, names, and attribution. Anything unverifiable is cut or flagged. Gaps are never smoothed over.
+
+---
+
+### Public Benchmarks & Tooling
+
+* **[search-benchmarks](https://github.com/nrr-hash/search-benchmarks)**: Deterministic measurement rigs and public data runs.
+  * **[The Magnifying Glass Problem](https://nrr-hash.github.io/search-benchmarks/magnifying-glass/)** (`ad-audit`): Source-fetching script and deterministic UTF-8 byte, codepoint, and syntactic dispersion audit of plain-text vacancy payloads.
+  * **[What the Dead Web Still Publishes](https://nrr-hash.github.io/search-benchmarks/dead-web/)** (`dead-web`): Concurrent probe testing sitemap/feed availability and edge deadline behavior across 60 domains.
+* **Writing & Research:** [nathanielrobertson.net](https://nathanielrobertson.net)
+
+---
+
+### Availability & Status
+
+* **Location:** Based in Gozo (CET)
+* **Status:** UK passport; German and Maltese residence permits
+* **Engagement:** Direct EU B2B contracts
