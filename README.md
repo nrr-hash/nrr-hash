@@ -21,7 +21,7 @@ A house style is only worth having if it can be enforced after the fact. Mine is
 #### 1. The ban list runs after drafting, never during
 Instructing a writer, human or otherwise, to avoid a list of words distorts the draft around the list. The draft is made by thought and ear; the scanners run on what comes out. A scanner hit is a prompt to inspect a sentence, not an order to mutate it. A lower hit count is not inherently better writing.
 
-The same discipline applies to syntactic calculus and burstiness targets. Confining generative drafts to a target coefficient of variation (even historical benchmarks like the 0.75-0.77 CV of Lincoln’s Second Inaugural Address) yields long-form copy that is less fatiguing than default model output, but readers still sense the underlying regularity. Disrupting that mechanical rhythm requires deliberate, adversarial human editing.
+The same discipline applies to syntactic calculus and burstiness targets. Confining generative drafts to a target coefficient of variation (even historical benchmarks like the 0.75-0.77 CV of Lincoln’s Second Inaugural Address) yields long-form copy that is less fatiguing than default model output, but readers still sense the underlying regularity. Disrupting that mechanical rhythm requires adversarial human editing.
 
 #### 2. Veracity outranks style
 Every substantive factual claim is listed with its intended evidence before drafting, traced to primary sources following drafting, and reread inquisitorially after every material edit for numbers, dates, units, names, and attribution. Anything unverifiable is cut or flagged. Gaps are never smoothed over.
