@@ -12,7 +12,7 @@ A house style is only worth having if it can be enforced after the fact. Mine is
 
 * **Lexicon & Syntax:** Proscribed vocabulary, forbidden structural constructions, and sentence-length dispersion.
 * **Diff Auditing:** Draft-to-draft comparisons reporting concrete changes: figures introduced, context shifted, and qualifications dropped.
-* **Human Attribution:** Checks performed by a model are model research. Only a named person who has read the source can mark a claim verified.
+* **Human Attribution:** Checks performed by a model are research. Only a named reader person of the source can mark a claim verified.
 
 ---
 
