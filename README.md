@@ -24,7 +24,7 @@ Instructing a writer, human or otherwise, to avoid a list of words distorts the 
 The same discipline applies to syntactic calculus and burstiness targets. Confining generative drafts to a target coefficient of variation (even historical benchmarks like the 0.75-0.77 CV of Lincoln’s Second Inaugural Address) yields long-form copy that is less fatiguing than default model output, but readers still sense the underlying regularity. Disrupting that mechanical rhythm requires deliberate, adversarial human editing.
 
 #### 2. Veracity outranks style
-Every substantive factual claim is listed with its intended evidence before drafting, traced to primary sources after drafting, and reread adversarially after every material edit for numbers, dates, units, names, and attribution. Anything unverifiable is cut or flagged. Gaps are never smoothed over.
+Every substantive factual claim is listed with its intended evidence before drafting, traced to primary sources following drafting, and reread inquisitorially after every material edit for numbers, dates, units, names, and attribution. Anything unverifiable is cut or flagged. Gaps are never smoothed over.
 
 ---
 
@@ -32,7 +32,7 @@ Every substantive factual claim is listed with its intended evidence before draf
 
 * **[search-benchmarks](https://github.com/nrr-hash/search-benchmarks)**: Deterministic measurement rigs and public data runs.
   * **[The Magnifying Glass Problem](https://nrr-hash.github.io/search-benchmarks/magnifying-glass/)** (`ad-audit`): Source-fetching script and deterministic UTF-8 byte, codepoint, and syntactic dispersion audit of plain-text vacancy payloads.
-  * **[What the Dead Web Still Publishes](https://nrr-hash.github.io/search-benchmarks/dead-web/)** (`dead-web`): Concurrent probe testing sitemap/feed availability and edge deadline behavior across 60 domains.
+  * **[What the Dead Web Still Publishes](https://nrr-hash.github.io/search-benchmarks/dead-web/)** (`dead-web`): Concurrent probe testing sitemap/feed availability and edge deadline behaviour across 60 domains.
 * **Writing & Research:** [nathanielrobertson.net](https://nathanielrobertson.net)
 
 ---
