@@ -12,7 +12,7 @@ A house style is only worth having if it can be enforced after the fact. Mine is
 
 * **Lexicon & Syntax:** Proscribed vocabulary, forbidden structural constructions, and sentence-length dispersion.
 * **Diff Auditing:** Draft-to-draft comparisons reporting concrete changes: figures introduced, context shifted, and qualifications dropped.
-* **Human Attribution:** Checks performed by a model are research. Only a named reader person of the source can mark a claim verified.
+* **Human Attribution:** Checks performed by a model are research. Only a named human reviewer who has checked the source can record a claim as verified.
 
 ---
 
@@ -21,7 +21,7 @@ A house style is only worth having if it can be enforced after the fact. Mine is
 #### 1. The ban list runs after drafting, never during
 Instructing a writer, human or otherwise, to avoid a list of words distorts the draft around the list. The draft is made by thought and ear; the scanners run on what comes out. A scanner hit is a prompt to inspect a sentence, not an order to mutate it. A lower hit count is not inherently better writing.
 
-The same discipline applies to syntactic calculus and burstiness targets. Confining generative drafts to a target coefficient of variation (even historical benchmarks like the 0.75-0.77 CV of Lincoln’s Second Inaugural Address) produces long-form copy that is less fatiguing than default output, but readers still sense the regularity. Disrupting that mechanical rhythm requires adversarial human editing.
+The same discipline applies to sentence rhythm. Sentence-length variation and autocorrelation describe a draft; they do not establish its quality, authorship, or effect on readers. I inspect the sequence, then judge any revision for meaning, voice, and usefulness. A better measurement is not evidence of a better piece.
 
 #### 2. Veracity outranks style
 Every substantive factual claim is listed with its intended evidence before drafting, traced to primary sources following drafting, and reread inquisitorially after every material edit for numbers, dates, units, names, and attribution. Anything unverifiable is cut or flagged. Gaps are never smoothed over.
