@@ -6,7 +6,7 @@ I write, edit, and audit content for clients across the UK, Germany, and Malta, 
 
 ---
 
-### How the work is checked
+### How the Work is Checked
 
 A house style is only worth having if it can be enforced after the fact. Mine is enforced by a versioned style pack, applied as a fixed sequence of checks after drafting rather than as guidance during it:
 
